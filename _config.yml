@@ -1,10 +1,27 @@
 # Site settings
-title: Giannis Stamatakis
-description: Data Science Portfolio
-# avatar: "https://avatars.githubusercontent.com/u/yourusername?v=4"
-# favicon: "/assets/img/favicon.ico"
+title: ""
+description: ""
 baseurl: ""
 url: "https://Ioannis-Stamatakis.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+
+# Minimal theme
+theme: minima
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - README.md
 
 # Social media links (username only)
 social-network-links:
@@ -24,11 +41,14 @@ author:
   bio: "Data Scientist"
   location: "Greece"
 
-# Footer
+# Footer - completely disabled
 footer-links-active:
-  github: true
-  linkedin: true
+  github: false
+  linkedin: false
   email: false
+  facebook: false
+  twitter: false
+  instagram: false
 
 # Footer text
 footer-text: ""
@@ -36,32 +56,7 @@ footer-extra: ""
 
 # Hide default footer elements
 show-avatar: false
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-timezone: Europe/Athens
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-
-# Pagination
-paginate: 5
-paginate_path: "/page:num/"
-
-# Exclude
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Dockerfile
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Vagrantfile
+show-footer: false
 
 # Google Analytics
 # google_analytics: "your-google-analytics-id"
