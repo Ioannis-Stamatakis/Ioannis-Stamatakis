@@ -1,123 +1,65 @@
 # Site settings
-title: "Ioannis Stamatakis"
-title_separator: "-"
-subtitle: "Data Science | Mechanical Engineering"
-name: "Ioannis Stamatakis"
-description: "Mechanical Engineer transitioning into Data Science"
-url: "https://Ioannis-Stamatakis.github.io"
+title: Ioannis Stamatakis
+description: Mechanical Engineer transitioning into Data Science
+avatar: "https://avatars.githubusercontent.com/u/yourusername?v=4"
+favicon: "/assets/img/favicon.ico"
 baseurl: ""
-repository: "Ioannis-Stamatakis/Ioannis-Stamatakis"
-teaser: # path of fallback teaser image
-logo: # path of logo image to display in the masthead
-masthead_title: # overrides the website title displayed in the masthead
+url: "https://Ioannis-Stamatakis.github.io"
 
-# Site Author
+# Social media links (username only)
+social-network-links:
+  github: Ioannis-Stamatakis
+  linkedin: stamioanni
+
+# Beautiful Jekyll theme
+remote_theme: daattali/beautiful-jekyll
+
+# Navigation menu
+navbar-links:
+  About: "about"
+  Portfolio: "portfolio"
+  Contact: "contact"
+
+# Author details
 author:
-  name: "Ioannis Stamatakis"
-  avatar: # path of avatar image
-  bio: "Mechanical Engineer transitioning into Data Science"
+  name: Ioannis Stamatakis
+  bio: "Mechanical Engineer → Data Scientist"
   location: "Greece"
-  email: 
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/stamioanni/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Ioannis-Stamatakis"
 
-# Site Footer
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/stamioanni/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Ioannis-Stamatakis"
+# Footer
+footer-links-active:
+  github: true
+  linkedin: true
+  email: false
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+highlighter: rouge
+timezone: Europe/Athens
 
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jekyll-include-cache
 
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
 
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-# HTML Compression
-# - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-# Exclude files from processing
+# Exclude
 exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor
-  - .sass-cache
-  - .jekyll-cache
-  - gemfiles
-  - .git 
+  - LICENSE
+  - README.md
+  - Vagrantfile
+
+# Google Analytics
+# google_analytics: "your-google-analytics-id"
+
+# Comments
+# disqus: "your-disqus-shortname" 
