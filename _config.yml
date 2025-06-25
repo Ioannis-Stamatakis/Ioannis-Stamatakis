@@ -1,0 +1,37 @@
+# Site settings
+title: Ioannis Stamatakis
+description: Mechanical Engineer transitioning into Data Science
+baseurl: ""
+url: "https://Ioannis-Stamatakis.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Personal info
+author:
+  name: Ioannis Stamatakis
+  email: your-email@example.com
+  linkedin: stamioanni
+
+# Social links
+github_username: Ioannis-Stamatakis
+linkedin_username: stamioanni
+
+# Show excerpts on homepage
+show_excerpts: true
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - .git 
