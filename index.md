@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Welcome
+layout: single
+author_profile: true
+title: "Welcome to My Portfolio"
 ---
 
 # Hello 👋

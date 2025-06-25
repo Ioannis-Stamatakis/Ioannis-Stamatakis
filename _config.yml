@@ -1,29 +1,115 @@
 # Site settings
-title: Ioannis Stamatakis
-description: Mechanical Engineer transitioning into Data Science
-baseurl: ""
+title: "Ioannis Stamatakis"
+title_separator: "-"
+subtitle: "Data Science | Mechanical Engineering"
+name: "Ioannis Stamatakis"
+description: "Mechanical Engineer transitioning into Data Science"
 url: "https://Ioannis-Stamatakis.github.io"
+baseurl: ""
+repository: "Ioannis-Stamatakis/Ioannis-Stamatakis"
+teaser: # path of fallback teaser image
+logo: # path of logo image to display in the masthead
+masthead_title: # overrides the website title displayed in the masthead
+
+# Site Author
+author:
+  name: "Ioannis Stamatakis"
+  avatar: # path of avatar image
+  bio: "Mechanical Engineer transitioning into Data Science"
+  location: "Greece"
+  email: 
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/stamioanni/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Ioannis-Stamatakis"
+
+# Site Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/stamioanni/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Ioannis-Stamatakis"
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Plugins (previously gems:)
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
-# Personal info
-author:
-  name: Ioannis Stamatakis
-  email: your-email@example.com
-  linkedin: stamioanni
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
-# Social links
-github_username: Ioannis-Stamatakis
-linkedin_username: stamioanni
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
-# Show excerpts on homepage
-show_excerpts: true
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude files from processing
 exclude:
