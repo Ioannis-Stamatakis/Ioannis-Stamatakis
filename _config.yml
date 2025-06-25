@@ -1,8 +1,8 @@
 # Site settings
 title: Ioannis Stamatakis
 description: Mechanical Engineer transitioning into Data Science
-avatar: "https://avatars.githubusercontent.com/u/yourusername?v=4"
-favicon: "/assets/img/favicon.ico"
+# avatar: "https://avatars.githubusercontent.com/u/yourusername?v=4"
+# favicon: "/assets/img/favicon.ico"
 baseurl: ""
 url: "https://Ioannis-Stamatakis.github.io"
 
@@ -17,8 +17,6 @@ remote_theme: daattali/beautiful-jekyll
 # Navigation menu
 navbar-links:
   About: "about"
-  Portfolio: "portfolio"
-  Contact: "contact"
 
 # Author details
 author:
