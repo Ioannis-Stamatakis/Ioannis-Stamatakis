@@ -1,6 +1,6 @@
 # Site settings
-title: Ioannis Stamatakis
-description: Mechanical Engineer transitioning into Data Science
+title: Giannis Stamatakis
+description: Data Science Portfolio
 # avatar: "https://avatars.githubusercontent.com/u/yourusername?v=4"
 # favicon: "/assets/img/favicon.ico"
 baseurl: ""
@@ -20,8 +20,8 @@ navbar-links:
 
 # Author details
 author:
-  name: Ioannis Stamatakis
-  bio: "Mechanical Engineer → Data Scientist"
+  name: Giannis Stamatakis
+  bio: "Data Scientist"
   location: "Greece"
 
 # Footer
@@ -29,6 +29,13 @@ footer-links-active:
   github: true
   linkedin: true
   email: false
+
+# Footer text
+footer-text: ""
+footer-extra: ""
+
+# Hide default footer elements
+show-avatar: false
 
 # Build settings
 markdown: kramdown
