@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Programming: Python, Bash, MATLAB<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MongoDB<br><br>Machine Learning: Familiar with common ML models, with a focus on Gradient Boosting methods<br><br>Visualization: Matplotlib, Seaborn, Power BI, Folium<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab</p>
+<p align="left">Programming: Python, Bash, MATLAB<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MongoDB<br><br>Machine Learning: Familiar with Machine Learning algorithms, with a focus on Gradient descent methods<br><br>Visualization: Matplotlib, Seaborn, Power BI, Folium<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab</p>
 
 ###
 
