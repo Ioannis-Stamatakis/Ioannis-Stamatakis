@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Programming: Python, Bash, MATLAB<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MongoDB<br><br>Machine Learning: Theoretical and hands-on experience with Classification(Image classification with CNN's/Transfer Learning/Churn) and Regression problems(Real-Estate price predictions), handling overfitting and trainig robust and explainable models. <br><br>Visualization: Matplotlib, Seaborn, Power BI, Folium<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab</p>
+<p align="left">Programming: Python, Bash, MATLAB<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MongoDB<br><br>Machine Learning: Theoretical and hands-on experience with Classification (Image classification with CNN's/Transfer Learning/Churn) and Regression problems(Real-Estate price predictions), handling overfitting and trainig robust and explainable models. Sklearn | Tensorflow | Keras <br><br>Visualization: Matplotlib, Seaborn, Power BI, Folium<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab</p>
 
 ###
 
