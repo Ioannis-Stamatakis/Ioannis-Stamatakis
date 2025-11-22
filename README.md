@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Giannis, a Mechanical Engineer transitioning into the world of Data Science</p>
+<p align="left">I'm Giannis, a Data & AI Engineer</p>
 
 ###
 
@@ -10,13 +10,13 @@
 
 ###
 
-<p align="left">🛠️ Currently working as a freelancer conducting Fire Protection Studies and issuing certifications for public and private buildings.<br>📚 Enrolled in the intensive 500-hour Data Science Bootcamp at Bigblue Data Academy, where I'm building expertise in modern data tools, real-world analytics, and machine learning.<br>🎯 Excited to analyse data, build data collection pipelines through web-scraping/API's, train ML models and create apps and interactive dashboards.</p>
+<p align="left">🛠️ Currently working as a Junior Data & AI Engineer at Cicicom Ltd.<br>📚 Hands on experience in developing AI Agents, MCP servers and creating database architectures form scratch.<br>🎯 Deep theoretical knowledge in statistics and machine learning.</p>
 
 <h2 align="left">Skills</h2>
 
 ###
 
-<p align="left">Programming: Python, Bash, MATLAB<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MongoDB<br><br>Machine Learning: Theoretical and hands-on experience with Classification (Image classification with CNN's/Transfer Learning/Churn) and Regression problems(Real-Estate price predictions), handling overfitting and trainig robust and explainable models. Sklearn | Tensorflow | Keras <br><br>Visualization: Matplotlib, Seaborn, Power BI, Folium<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab</p>
+<p align="left">Programming: Python, Javascript, Bash, MATLAB<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MongoDB<br><br>Machine Learning: Theoretical and hands-on experience with Classification (Image classification with CNN's/Transfer Learning/Churn) and Regression problems(Real-Estate price predictions), handling overfitting and trainig robust and explainable models. Sklearn | Tensorflow | Keras <br><br>Visualization: Matplotlib, Seaborn, Power BI, Folium<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab</p>
 
 ###
 
