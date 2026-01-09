@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠️ Currently working as a Junior Data & AI Engineer at Cicicom Ltd.<br>📚 Hands on experience in developing AI Agents, MCP servers and creating database architectures form scratch.<br>🎯 Deep theoretical knowledge in statistics and machine learning.</p>
+<p align="left">🛠️ Currently working as a Junior Data & AI Engineer at Cicicom Ltd.<br>📚 Hands on experience in developing AI Agents, MCP servers, training object detection models (Yolo) and creating database architectures form scratch.<br>🎯 Deep theoretical knowledge in statistics and machine learning.</p>
 
 <h2 align="left">Skills</h2>
 
