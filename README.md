@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Programming: Python, Javascript, Bash, MATLAB<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MSSQL, MongoDB<br><br>Machine Learning: Theoretical and hands-on experience with Object Detection models (Yolo, STYolo for embedded machines) and Regression problems(Real-Estate price predictions), handling overfitting and trainig robust and explainable models. Sklearn | Tensorflow | Keras <br><br>Visualization: Matplotlib, Seaborn, Power BI, Looker Studio,<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab, Bitbucket</p>
+<p align="left">Programming: Python, Javascript, Bash, MATLAB<br><br>Agentic Framework: Langgraph, PydanticAI, MCP servers<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MSSQL, MongoDB<br><br>Machine Learning: Theoretical and hands-on experience with Object Detection models (Yolo, STYolo for embedded machines) and Regression problems(Real-Estate price predictions), handling overfitting and trainig robust and explainable models. Sklearn | Tensorflow | Keras <br><br>Visualization: Matplotlib, Seaborn, Power BI, Looker Studio,<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab, Bitbucket</p>
 
 ###
 
