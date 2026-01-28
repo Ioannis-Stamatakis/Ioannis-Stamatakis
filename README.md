@@ -73,10 +73,3 @@ I am a **Data & AI Engineer** with deep theoretical knowledge in statistics and 
 </div>
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=stamioanni&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stamioanni&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
