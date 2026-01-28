@@ -1,53 +1,82 @@
-<h1 align="left">Hello 👋</h1>
+<div align="center">
 
-###
+# Hello, I'm Giannis 👋
 
-<p align="left">I'm Giannis, a Data & AI Engineer</p>
+### Data & AI Engineer
 
-###
+Currently building AI Agents & Scalable Architectures at **Cicicom Ltd.**
 
-<h2 align="left">About me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stamioanni/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/stamioanni)
 
-###
-
-<p align="left">🛠️ Currently working as a Junior Data & AI Engineer at Cicicom Ltd.<br>📚 Hands on experience in developing AI Agents, MCP servers, training object detection models (Yolo) and creating database architectures form scratch.<br>🎯 Deep theoretical knowledge in statistics and machine learning.</p>
-
-<h2 align="left">Skills</h2>
-
-###
-
-<p align="left">Programming: Python, Javascript, Bash, MATLAB<br><br>Agentic Framework: Langgraph, PydanticAI, MCP servers, Agno, experimenting with bleeding edge Agentic Frameworks<br><br>Data Collection: Web scraping (BeautifulSoup, Selenium), APIs<br><br>Data Manipulation: Pandas, NumPy, Regex<br><br>Databases: SQL, PostgreSQL, MSSQL, MongoDB<br><br>Machine Learning: Theoretical and hands-on experience with Object Detection models (Yolo, STYolo for embedded machines) and Regression problems(Real-Estate price predictions), handling overfitting and trainig robust and explainable models. Sklearn | Tensorflow | Keras <br><br>Visualization: Matplotlib, Seaborn, Power BI, Looker Studio,<br><br>Apps & Dashboards: Streamlit (interactive dashboards, map visualizations)<br><br>Version Control: Git, Github, Gitlab, Bitbucket</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
 </div>
 
-###
+---
 
-<h2 align="left">Contact me:</h2>
+### 👨‍💻 About Me
 
-###
+I am a **Data & AI Engineer** with deep theoretical knowledge in statistics and machine learning, currently bridging the gap between raw data and autonomous agents.
+
+* 🛠️ **Current Role:** Junior Data & AI Engineer at Cicicom Ltd.
+* 🔭 **Working on:** Developing **AI Agents**, **MCP servers**, and training custom Object Detection models (YOLO).
+* 🧠 **Core Strength:** Creating database architectures from scratch and deploying robust, explainable ML models.
+* 🎯 **Goal:** Building autonomous systems that solve real-world problems.
+
+---
+
+### 🛠️ Technical Stack
+
+#### 🤖 Agentic AI & Machine Learning
+| Category | Technologies |
+| :--- | :--- |
+| **Frameworks** | LangGraph, PydanticAI, Agno, MCP Servers |
+| **ML & Deep Learning** | YOLO (Object Detection), STYolo (Embedded), Scikit-learn, TensorFlow, Keras |
+| **Techniques** | Regression (Real-Estate), Overfitting Management, Model Explainability |
+
+#### 💾 Data Engineering & Backend
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, Bash, MATLAB |
+| **Databases** | SQL, PostgreSQL, MSSQL, MongoDB |
+| **Data Manipulation** | Pandas, NumPy, Regex |
+| **Data Collection** | Web Scraping (BeautifulSoup, Selenium), API Integration |
+
+#### 📊 Visualization & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Visualization** | Matplotlib, Seaborn, Power BI, Looker Studio |
+| **Apps** | Streamlit (Interactive dashboards & Maps) |
+| **Version Control** | Git, GitHub, GitLab, Bitbucket |
+
+---
+
+### 💻 Technologies
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/stamioanni/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </div>
 
-###
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=stamioanni&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stamioanni&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+</div>
