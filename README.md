@@ -7,7 +7,7 @@
 Currently building AI Agents & Scalable Architectures at **Cicicom Ltd.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stamioanni/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/stamioanni)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Ioannis-Stamatakis)
 
 </div>
 
