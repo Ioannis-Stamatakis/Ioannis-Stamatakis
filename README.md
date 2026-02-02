@@ -19,7 +19,7 @@ I am a **Data & AI Engineer** with a background in Mechanical Engineering. Deep 
 
 * 🛠️ **Current Role:** Junior Data & AI Engineer at Cicicom Ltd.
 * 🔭 **Working on:** Developing **AI Agents**, training custom Object Detection models (YOLO), creating Postgres Database Models and delivering robust and explainable ML models for regression and classification.
-* 🧠 **Core Strength:** Problem solving, experimentation, always learning mentality.
+* 🧠 **Core Strength:** Problem solving, communication, experimentation, always learning and improving mentality.
 * 🎯 **Goal:** Building autonomous systems and creating methodologies that solve real-world problems.
 
 ---
