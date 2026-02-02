@@ -15,12 +15,12 @@ Currently building AI Agents & Scalable Architectures at **Cicicom Ltd.**
 
 ### 👨‍💻 About Me
 
-I am a **Data & AI Engineer** with deep theoretical knowledge in statistics and machine learning, currently bridging the gap between raw data and autonomous agents.
+I am a **Data & AI Engineer** with a background in Mechanical Engineering. Deep theoretical knowledge in statistics and machine learning, currently bridging the gap between raw data and autonomous agents.
 
 * 🛠️ **Current Role:** Junior Data & AI Engineer at Cicicom Ltd.
-* 🔭 **Working on:** Developing **AI Agents**, **MCP servers**, and training custom Object Detection models (YOLO).
-* 🧠 **Core Strength:** Creating database architectures from scratch and deploying robust, explainable ML models.
-* 🎯 **Goal:** Building autonomous systems that solve real-world problems.
+* 🔭 **Working on:** Developing **AI Agents**, training custom Object Detection models (YOLO), creating Postgres Database Models and delivering robust and explainable ML models for regression and classification.
+* 🧠 **Core Strength:** Problem solving, experimentation, always learning mentality.
+* 🎯 **Goal:** Building autonomous systems and creating methodologies that solve real-world problems.
 
 ---
 
